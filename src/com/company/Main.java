@@ -68,7 +68,7 @@ public class Main {
         berserk();
         thor();
         lucky();
-        //hello
+
         golem();
         printStatistics();
         berserkHit();
